@@ -66,12 +66,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tnickel-web/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/tnickel-web/tnickel-web/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/tnickel-web/tnickel-web/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###

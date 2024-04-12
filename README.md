@@ -66,5 +66,12 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/tnickel-web/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/tnickel-web/tnickel-web/output/snake.svg" alt="Snake animation" />
+
+###

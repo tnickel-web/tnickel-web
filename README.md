@@ -1,19 +1,17 @@
 ### <div align="center">Developer by day 👨‍💻, gamer by night 🚀</div>  
   
 
-- 🔭 I’m currently working on [weather-wand](https://github.com/tnickel-web/weather-wand)  
+- 🔭 I’m currently working on [weather-wand](https://github.com/tnickel-web/weather-wand).  
   
 
-- 🌱 I’m currently learning PHP, Rust & Typescript <img src="http://pngimg.com/uploads/php/php_PNG7.png" width="20" height="20"/> | <img src="https://pcvgrupo.com/wp-content/uploads/2021/04/RUST-2560_3000-1024x683.png" width="25" height="15"/> | <img src="https://static-00.iconduck.com/assets.00/file-type-typescript-icon-2048x1349-0um6gqic.png" width="15" height="10"/>  
+- 🌱 I’m currently learning PHP, Rust & Typescript.  
   
 
-- ⚡ Fun fact: I use <a href="https://archlinux.org/"><img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" alt="drawing" width="20" height="20"/></a>, btw  
+- ⚡ Fun fact: I use <a href="https://archlinux.org/"><img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" alt="drawing" width="20" height="20"/></a>, btw.  
   
 
 <br/>  
 
-
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -54,8 +52,6 @@
 
 <br/>  
 
-
-## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=tnickel-web&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  

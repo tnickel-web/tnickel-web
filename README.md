@@ -13,8 +13,6 @@
 <br/>  
 
 <table><tr><td valign="top" width="33%">
-
-
 <h3 align="center">Frontend</h3>
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a>  
@@ -24,9 +22,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
 <h3 align="center">Backend</h3> 
 <div align="center">  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=php" alt="PHP" height="50" /></a>  
@@ -36,9 +31,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
 <h3 align="center">DevOps & More</h3>
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>  

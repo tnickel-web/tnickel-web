@@ -15,7 +15,7 @@
 <table><tr><td valign="top" width="33%">
 
 
-### Frontend  
+<h3 style="text-align: center;">Frontend</h3>
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>  
@@ -27,7 +27,7 @@
 
 
 
-### Backend  
+<h3 style="text-align: center;">Backend</h3> 
 <div align="center">  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=php" alt="PHP" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="50" /></a>  
@@ -39,7 +39,7 @@
 
 
 
-### DevOps & More  
+<h3 style="text-align: center;">DevOps & More</h3>
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="50" /></a>  

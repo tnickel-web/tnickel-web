@@ -7,7 +7,7 @@
 
 
 - ⚡ Fun fact: I
-  use <a href="https://archlinux.org/"><img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" alt="drawing" width="20" height="20"/></a>,
+  use <a href="https://archlinux.org/"><img src="https://images.seeklogo.com/logo-png/29/1/archlinux-logo-png_seeklogo-298567.png" alt="drawing" width="20" height="20"/></a>,
   btw.
 
 <br/>  

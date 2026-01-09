@@ -7,7 +7,7 @@
 
 
 - ⚡ Fun fact: I
-  use <a href="https://archlinux.org/"><img src="https://images.seeklogo.com/logo-png/29/1/archlinux-logo-png_seeklogo-298567.png" alt="drawing" width="20" height="20"/></a>,
+  use <a href="https://archlinux.org/"><img src="https://www.pinclipart.com/picdir/middle/344-3444076_arch-linux-logo-png-clipart.png" alt="drawing" width="20" height="20"/></a>,
   btw.
 
 <br/>  
